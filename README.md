@@ -1,5 +1,5 @@
-# options
-### aka project "How to fight a bitch"
+# Options
+### a.k.a Project "How to fight a bitch"
 
 * Ideas are kind of general but the main aim is to consolidate and compile all the available options to help Singaporeans better understand where they can get help from regarding issues that may be considered "taboo" locally.
 * Collaboration with Mutual Aid (? tbc)
