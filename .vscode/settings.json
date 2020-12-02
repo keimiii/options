@@ -1,3 +1,9 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/4ecfff60-c9ce-461d-95ed-58cb274423d0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/OptionSG",
+    "appService.deploySubpath": "optionsg\\public"
 }
